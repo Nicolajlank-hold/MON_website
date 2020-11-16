@@ -31,6 +31,53 @@
 }
 /*Navigations menu slut */ 
 
-body {background-color: burlywood;
+body {background-color: sienna;
+    background: radial-gradient(#D8B8A3, #A5653D);
+    
 
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    margin-bottom: auto;
+  width: 25%;
+}
+.logo {
+    display: block
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: auto; 
+    width: 5%
+    
+    }
+
+h1 {
+
+    font-family: serif;
+    font-size: 3em;
+    margin-bottom: 0.3em;
+    text-align: center
+}
+h2 {
+    color: #FFF;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+p {
+     color: #FFF;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+div {
+  
+}
+.alignright {
+
+    float: right;
 }
