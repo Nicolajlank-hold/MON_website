@@ -1,36 +1,90 @@
 /* top navigations menu */
-.topnav {
-  background-color: #333;
-  overflow: hidden;
-}
 
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+.nav{
+    
+    border:none; 
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
 }
-
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+.nav li{
+    display:inline;
 }
-#topnav {
-    display: inline-block;
-    list-style-type: none;
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: white;
+    padding-left: 5%;
+    
 }
 /*Navigations menu slut */ 
 
-body {background-color: burlywood;
+body {background-color: sienna;
+    background: radial-gradient(#D8B8A3, #A5653D);
+    
 
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    margin-bottom: auto;
+  width: 25%;
+}
+.logo {
+    position: absolute; 
+    top: 0px;
+    left: 16px;
+    display: block
+    margin-left:auto;
+    margin-right: auto; 
+    margin-bottom: auto; 
+    width: 5%
+    
+    }
+
+.rugkiks {
+  position: absolute; 
+    display: block
+    margin-left: 20%;
+    margin-right: auto; 
+    margin-bottom: auto;
+    margin-top: 15%;
+    
+    
+}
+
+h1 {
+
+    font-family: serif;
+    font-size: 3em;
+    margin-bottom: 0.3em;
+    text-align: center
+}
+h2 {
+    color: #FFF;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+p {
+     color: #FFF;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+div {
+  
+}
+.alignright {
+
+    float: right;
+    
+}
+
+
