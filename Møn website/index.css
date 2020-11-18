@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /* top navigations menu */
 .topnav {
   background-color: #333;
@@ -30,19 +31,27 @@
     list-style-type: none;
 }
 /*Navigations menu slut */ 
+=======
+>>>>>>> Stashed changes
 
 body {background-color: sienna;
     background: radial-gradient(#D8B8A3, #A5653D);
     
 
 }
+.bisca {
+    float: none;
+    clear: none;
+        width: 5%;
+}
 .center {
-  display: block;
+    align-content: center
   margin-left: auto;
   margin-right: auto;
     margin-bottom: auto;
   width: 25%;
 }
+<<<<<<< Updated upstream
 .logo {
     display: block
     margin-left: auto; 
@@ -58,26 +67,79 @@ h1 {
     font-size: 3em;
     margin-bottom: 0.3em;
     text-align: center
+=======
+.heading {
+  max-width: 1588px;
+  margin-right: -66px;
+  margin-left: -66px;
+  padding-right: 0px;
+  padding-left: 0px;
+  border-right: 1px solid #fff;
+  font-family: 'Droid Serif', serif;
+  color: #fff;
+  font-size: 29px;
+  text-align: center;
+>>>>>>> Stashed changes
 }
-h2 {
-    color: #FFF;
-    letter-spacing: 1px;
-    padding: 5px;
-    margin-right: 300px;
-    margin-top: 20px;
+.heading-1 {
+  margin-top: 181px;
+  font-family: Oswald, sans-serif;
+  color: #f5f5f5;
+  font-size: 50px;
+  font-style: normal;
+  text-align: center;
 }
-p {
-     color: #FFF;
-    letter-spacing: 1px;
-    padding: 5px;
-    margin-right: 200px;
-    margin-top: 20px;
+.paragraph-1 {
+  max-width: 798px;
+  min-width: 13px;
+  margin-top: 56px;
+  margin-bottom: 0px;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  color: #fff;
+  font-size: 38px;
+  line-height: 51px;
+  text-align: center;
 }
 
-div {
-  
+.logo {
+  position: relative;
+  left: auto;
+  top: 0%;
+  right: -35%;
+  bottom: auto;
+  float: left;
+  text-align: center;
+  -o-object-fit: contain;
+  object-fit: contain;
 }
+<<<<<<< Updated upstream
 .alignright {
 
     float: right;
 }
+=======
+    
+    }
+.image {
+  max-width: 50%;
+  margin-top: 63px;
+  margin-left: 52px;
+  padding-right: 0px;
+  padding-left: 57px;
+  float: none;
+  clear: none;
+  border: 1px none #000
+}
+
+ .section-2 {
+  margin-left: -148px;
+  padding-left: 0px;
+}
+.container-2 {
+  margin-top: -11px;
+  padding-right: 0px;
+  clear: none;
+}
+
+
+>>>>>>> Stashed changes
